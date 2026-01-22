@@ -26,10 +26,9 @@
 красивой девушке Анастасии Дмитриевне Коноваловой 1890 г.р. В этом браке родились сыновья Николай 1910 г.р. и 
 Валентин 1922 г.р., дочери Елена 1911 г.р., Вера 1913 г.р., Антонина 1916 г.р., Мария 1918 г.р., Зоя 1925 г.р. 
 
-| ![Alexander-family.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Alexander-family.jpg?raw=true) | 
-|:-------------------------------------------------------------------------------------------------------------------------:| 
-|              Любимов А.Ф., мать Юлия Ситникова и жена Анастасия со старшими детьми                                        |
-
+| ![Alexander-family.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Alexander-family.jpg?raw=true) | ![Alexander-family-2.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Alexander-family-2.jpg?raw=true) |
+|:-------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:| 
+|              Любимов А.Ф., мать Юлия Ситникова и жена Анастасия со старшими детьми                                        |                                            Бабушка и дедушка, посередине дочь Зоя                                             |
 
 | ![Alexander-family-2.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Alexander-family-2.jpg?raw=true) | 
 |:-----------------------------------------------------------------------------------------------------------------------------:| 
@@ -201,9 +200,9 @@
 Вячеслав Васильевич Мамонтов (1941-2017 гг.), его дети и внуки
 --------------------------------------------------------------
 
-| ![Slava.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Slava.jpg?raw=true) | 
-|:---------------------------------------------------------------------------------------------------:| 
-|                          Женя, Раиса Петровна, Саша и Вячеслав Васильевич                           |
+| ![Slava-family.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Slava-family.jpg?raw=true) | 
+|:-----------------------------------------------------------------------------------------------------------------:| 
+|                             Женя, Раиса Петровна, Саша и Вячеслав Васильевич                                      |
 
 Слава закончил в Андижане филологический факультет педагогического института, его жена - Раиса Петровна - медицинский
 институт. Там же у них родился старший сын Саша, первый внук Мамонтовых. Вячеслав Васильевич с переездом в Коканд 
@@ -576,10 +575,10 @@
 | :---------------------------------------------------------------------------------------------------------------: | 
 |                                       Алексей, сын от второго брака Людмилы                                       |
 
-|       ![Alexey.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Alexey.jpg?raw=true)       | 
+|       ![Leonid.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Leonid.jpg?raw=true)       | 
 |:-----------------------------------------------------------------------------------------------------------------:| 
 |                                                      Леонид                                                       |
-|       ![Alexey.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Alexey.jpg?raw=true)       | 
+|    ![Miroslava.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Miroslava.jpg?raw=true)    | 
 | :---------------------------------------------------------------------------------------------------------------: | 
 |                                                     Мирослава                                                     |
 |        ![Sonya.jpg](https://github.com/igor-chalenko/family-history/blob/master/photos/Sonya.jpg?raw=true)        | 
